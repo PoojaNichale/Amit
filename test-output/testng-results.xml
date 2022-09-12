@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-13T22:59:31 IST" name="Default suite" finished-at="2022-08-13T23:00:17 IST" duration-ms="45571">
+    <groups>
+    </groups>
+    <test started-at="2022-08-13T22:59:31 IST" name="Default test" finished-at="2022-08-13T23:00:17 IST" duration-ms="45571">
+      <class name="TestCases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:31 IST" name="setup" finished-at="2022-08-13T22:59:40 IST" duration-ms="8950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifykitelogotest()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:40 IST" name="verifykitelogotest" finished-at="2022-08-13T22:59:40 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifykitelogotest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:40 IST" name="end" finished-at="2022-08-13T22:59:41 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:41 IST" name="setup" finished-at="2022-08-13T22:59:45 IST" duration-ms="4220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifykitelogotest()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:45 IST" name="verifykitelogotest" finished-at="2022-08-13T22:59:45 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifykitelogotest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:45 IST" name="end" finished-at="2022-08-13T22:59:46 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:46 IST" name="setup" finished-at="2022-08-13T22:59:50 IST" duration-ms="4337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifykitelogotest()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:50 IST" name="verifykitelogotest" finished-at="2022-08-13T22:59:50 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifykitelogotest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:50 IST" name="end" finished-at="2022-08-13T22:59:51 IST" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:51 IST" name="setup" finished-at="2022-08-13T22:59:55 IST" duration-ms="4009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogintextTest()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:55 IST" name="verifylogintextTest" finished-at="2022-08-13T22:59:55 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogintextTest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:55 IST" name="end" finished-at="2022-08-13T22:59:55 IST" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:55 IST" name="setup" finished-at="2022-08-13T22:59:59 IST" duration-ms="3774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginzerodhaTest()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T22:59:59 IST" name="loginzerodhaTest" finished-at="2022-08-13T23:00:03 IST" depends-on-methods="TestCases.LoginPageTest.verifylogintextTest" duration-ms="3701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginzerodhaTest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T23:00:03 IST" name="end" finished-at="2022-08-13T23:00:03 IST" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T23:00:03 IST" name="setup" finished-at="2022-08-13T23:00:07 IST" duration-ms="3777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifysharebyoption()[pri:1, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T23:00:07 IST" name="verifysharebyoption" finished-at="2022-08-13T23:00:16 IST" duration-ms="9085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysharebyoption -->
+        <test-method is-config="true" signature="end()[pri:0, instance:TestCases.LoginPageTest@3e6ef8ad]" started-at="2022-08-13T23:00:16 IST" name="end" finished-at="2022-08-13T23:00:17 IST" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- TestCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
